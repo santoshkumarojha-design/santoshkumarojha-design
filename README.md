@@ -53,13 +53,16 @@
 
 ## 🐍 Contribution Snake (Dark / Light Mode)
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+<!-- 3D SNAKE ANIMATION — renders after GitHub Actions generates the SVG -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/santoshkumarojha-design/santoshkumarojha-design/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/santoshkumarojha-design/santoshkumarojha-design/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/santoshkumarojha-design/santoshkumarojha-design/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:022c22,100:0d1117&height=2&section=footer&stroke=22c55e&strokeWidth=1" alt="line" />
 
 ---
 
