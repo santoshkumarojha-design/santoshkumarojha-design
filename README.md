@@ -105,6 +105,22 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=120&section=footer" />
-</p>
+<!-- FOOTER -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&width=700&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80" alt="divider" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=4000&pause=3000&color=4ADE80&center=true&vCenter=true&width=600&lines=%22+AI+is+not+the+future.+It%27s+the+present.+%22" alt="tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=3500&pause=2000&color=6b7280&center=true&vCenter=true&width=600&lines=%E2%80%94+Santosh+Kumar+Ojha+%C2%B7+AI%2FML+%26+Frontend+Developer" alt="name" />
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:022c22,100:0d1117&height=2&section=footer&stroke=22c55e&strokeWidth=1" alt="line" />
+</div>
+<!-- 3D SNAKE ANIMATION — renders after GitHub Actions generates the SVG -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/santoshkumarojha-design/santoshkumarojha-design/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/santoshkumarojha-design/santoshkumarojha-design/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/santoshkumarojha-design/santoshkumarojha-design/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:022c22,100:0d1117&height=2&section=footer&stroke=22c55e&strokeWidth=1" alt="line" />
+</div>
