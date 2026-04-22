@@ -1,19 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:020617&height=220&section=header&text=Santosh%20Kumar%20Ojha&fontSize=42&fontColor=22c55e&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Developer%20%7C%20Frontend%20Developer&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f172a,50:064e3b,100:022c22&height=200&section=header&text=Santosh%20Kumar%20Ojha&fontSize=42&fontColor=4ade80&animation=blinking&fontAlignY=45&desc=AI%2FML%20Developer%20%7C%20Frontend%20Developer&descAlignY=65&descAlign=50&descSize=18&descColor=86efac&stroke=22c55e&strokeWidth=2" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=650&lines=Building+AI+that+ships;Clean+UI+%2B+Fast+UX;Python+%7C+React+%7C+Machine+Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=650&lines=Building+AI+that+ships+%F0%9F%9A%80;Clean+UI+%2B+Fast+UX+%E2%9A%A1;Python+%7C+React+%7C+Machine+Learning;Turning+ideas+into+products+%F0%9F%A7%A0" />
 </p>
 
----
-
-## 🧊 Theme: Dark Neon Minimal (Glass Feel)
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Theme-Dark%20Neon-020617?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Accent-22C55E-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UI-Minimal-black?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=22c55e&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=22c55e&labelColor=0f172a&label=FOLLOWERS" />
 </p>
 
 ---
