@@ -6,10 +6,26 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=650&lines=Building+AI+that+ships+%F0%9F%9A%80;Clean+UI+%2B+Fast+UX+%E2%9A%A1;Python+%7C+React+%7C+Machine+Learning;Turning+ideas+into+products+%F0%9F%A7%A0" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=22c55e&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=22c55e&labelColor=0f172a&label=FOLLOWERS" />
-</p>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=3000&color=4ADE80&center=true&vCenter=true&width=420&lines=Let%27s+connect+%F0%9F%91%87" alt="connect" />
+<br/>
+<a href="https://www.linkedin.com/in/santosh-kumar-ojha-484668330">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:santuojha333@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/santoshkumarojha-design">
+  <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=santoshkumarojha-design&style=for-the-badge&color=22c55e&label=PROFILE+VIEWS" />
+<br/><br/>
+<!-- Animated line separator -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=1500&pause=500&color=22C55E&center=true&vCenter=true&width=600&lines=+%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80" alt="line" />
+</div>
 
 ---
 
